@@ -24,3 +24,7 @@ int main()
 }
 
 ```
+
+## Output
+
+    count: 4
